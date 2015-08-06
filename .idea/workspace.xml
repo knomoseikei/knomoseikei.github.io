@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1289ec85-8dbc-45cf-837e-657da0d31475" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/niyux.html" afterPath="$PROJECT_DIR$/niyux.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="knomoseikei.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
