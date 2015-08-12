@@ -22,5 +22,35 @@ ul{
 }
 li {
 	display: inline;
+}
 
+#showcase {
+	background-color: #1b6d85;
+}
+
+#showcase li {
+	display: inline-block;
+}
+
+#showcase p {
+	width: 300px;
+	text-align: center;
+}
+
+#showcase img {
+	display:block;
+	margin:auto;
+}
+
+#showcase header {
+	text-align: center;
+}
+
+#showcase header,ul {
+	width: 1149px;
+	margin: auto;
+}
+
+#showcase figcaption {
+	text-align: center;
 }
