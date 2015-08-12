@@ -21,6 +21,40 @@ ul{
 	list-style-type: none;
 }
 li {
-	display: inline-block;
+<<<<<<< HEAD
+	display: inline;
+}
 
+#showcase {
+	background-color: #1b6d85;
+}
+
+#showcase li {
+	display: inline-block;
+}
+
+#showcase p {
+	width: 300px;
+	text-align: center;
+}
+=======
+	display: inline-block;
+>>>>>>> d47b330acab992d86ef406c7ad9478facc997c54
+
+#showcase img {
+	display:block;
+	margin:auto;
+}
+
+#showcase header {
+	text-align: center;
+}
+
+#showcase header,ul {
+	width: 1149px;
+	margin: auto;
+}
+
+#showcase figcaption {
+	text-align: center;
 }
