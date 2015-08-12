@@ -21,6 +21,7 @@ ul{
 	list-style-type: none;
 }
 li {
+<<<<<<< HEAD
 	display: inline;
 }
 
@@ -36,6 +37,9 @@ li {
 	width: 300px;
 	text-align: center;
 }
+=======
+	display: inline-block;
+>>>>>>> d47b330acab992d86ef406c7ad9478facc997c54
 
 #showcase img {
 	display:block;
